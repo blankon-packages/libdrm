@@ -14,7 +14,6 @@ Build-Depends:
  libudev-dev,
  libpciaccess-dev,
  valgrind [amd64 armhf i386 mips mipsel powerpc s390x]
- 
 Standards-Version: 3.9.8
 Section: libs
 Vcs-Git: https://anonscm.debian.org/git/pkg-xorg/lib/libdrm.git
