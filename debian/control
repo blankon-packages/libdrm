@@ -23,7 +23,7 @@ Homepage: https://cgit.freedesktop.org/mesa/drm/
 
 Package: libdrm-dev
 Section: libdevel
-Architecture: any kfreebsd-any
+Architecture: amd64 i386
 Depends:
  libdrm2 (= ${binary:Version}),
  libdrm-intel1 (= ${binary:Version}) [amd64 i386 kfreebsd-amd64 kfreebsd-i386 x32],
